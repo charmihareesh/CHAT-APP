@@ -13,3 +13,6 @@ DURATION:8 WEEEKS
 MENTOR:NEELA SANTOOSH
 
 TASK:REAL-TIME CHAT APPLICATION
+
+OUTPUT:![Image](https://github.com/user-attachments/assets/f1c4b680-c7d4-4c1d-bd57-ac1bacfae1e6)
+
